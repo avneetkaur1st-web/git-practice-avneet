@@ -3,3 +3,4 @@ Git tracks changes in my files.
 Each commit saves a checkpoint.
 This line was added on a feature branch.
 Git helps track project history and makes teamwork easier.
+I am learning how to revert commits.
