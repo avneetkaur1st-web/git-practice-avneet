@@ -2,4 +2,4 @@ I am learning git and github.
 Git tracks changes in my files.
 Each commit saves a checkpoint.
 This line was added on a feature branch.
-Git helps track project history.
+Git helps track project history and makes teamwork easier.
